@@ -1,0 +1,11 @@
+asyncio
+argparse
+bleak
+flask
+flask_cors
+flask_restful
+flask_sqlalchemy
+flask_jwt_extended
+psutil
+passlib
+numpy
